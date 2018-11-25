@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Play.fsx" />
     <Compile Include="Model.fs" />
+    <None Include="Play.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
