@@ -7,3 +7,5 @@ let ba = { balance = 10; id = "asdfasdfasdf"; customer = b}
 let c = deposit 45 ba
 
 createBaseDirectoryOf @"c:\temp\somedir\somefile.txt"
+
+fileSystemAudit ba "some-message"
